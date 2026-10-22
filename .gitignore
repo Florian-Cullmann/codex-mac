@@ -1,0 +1,14 @@
+.build/
+dist/
+.DS_Store
+.swiftpm/
+.env
+.env.*
+!.env.example
+.codex/
+auth.json
+*.pem
+*.key
+*.p12
+*.pfx
+*.log
